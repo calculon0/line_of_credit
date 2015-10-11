@@ -1,5 +1,11 @@
 # line_of_credit
 
+To install
+
+* `curl https://install.meteor.com/ | sh`
+* type `meteor` in the directory
+* load `localhost:3000` in your browser
+
 I think there is a mistake in the examples given.
 
 In Scenario 1, someone draws money on day 1 and is charged 30 days of interest.  This means the day he borrows money is included in the interest calculation.
